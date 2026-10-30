@@ -102,7 +102,7 @@ The design does not include physical travel stops, a wearable socket, motors, el
 
 ## Development and acknowledgments
 
-This is a student-led assistive-device design exploration. AI assistance was used in generating and revising this iteration's CAD code, geometry, and documentation. The repository distinguishes modeled features from experimentally demonstrated function.
+This is a student-led assistive-device design exploration. The repository distinguishes modeled features from experimentally demonstrated function.
 
 ## Feedback
 
